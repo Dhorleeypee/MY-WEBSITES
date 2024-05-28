@@ -1,0 +1,101 @@
+body {
+    background: rgb(255, 255, 255);
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: 40px;
+    text-align: center;
+   
+}
+
+/*
+.red {
+
+    
+      body {
+    margin: 0px;
+   }
+    background: red;
+    height: 100px;
+   
+
+    }
+
+    .blue {
+        background: blue;
+        height: 100px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .green {
+        background: green;
+        height: 100px;
+    }
+*/
+
+.main {
+    margin-top: 100px;
+}
+
+
+
+.box {
+    width: 400px;
+    display: block;
+    margin-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 24px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border: 1px solid #dfe1e5;
+    border-radius: 24px;
+}
+
+.google {
+    width: 300px;
+    display: block;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+   }
+
+
+.button {    
+    color: #0f1419;
+    border: 1px solid #cfd9de;
+    border-radius: 20px;
+    background: #dfe1e5;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-weight: bold;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -20px;
+    margin-bottom: auto;
+    text-align: center;
+    font-size: 14px;
+}
+
+.follow-btn, .lucky-btn {
+    color: #0f1419;
+    border: 1px solid #cfd9de;
+    border-radius: 5px;
+    background: #dfe1e5;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    margin-top: 30px;
+    margin-left: 5px;
+    margin-right: 5px;
+    text-align: center;
+
+}
